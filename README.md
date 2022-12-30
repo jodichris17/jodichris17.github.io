@@ -1,2 +1,3 @@
 # jodichris17.github.io
-personal website
+
+This is my personal website
