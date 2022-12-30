@@ -19,7 +19,7 @@ const projects = [
         <p>
           This example deploys the NodeJS-ExpressJS-MySQL
           Create-Read-Update-Delete (CRUD) application at{" "}
-          <a href="https://github.com/DigiPie/nodejs-mysql-aws-beanstalk">
+          <a href="https://github.com/">
             DigiPie/nodejs-mysql-aws-beanstalk
           </a>
           , by using the CloudFormation IaC templates in this repository and
@@ -27,11 +27,11 @@ const projects = [
         </p>
         <p>
           I worked on this project to learn more about the{" "}
-          <a href="https://www.hashicorp.com/resources/getting-started-with-infrastructure-as-code-iac">
+          <a href="https://github.com/">
             Infrastructure-as-Code
           </a>{" "}
           concept and{" "}
-          <a href="https://aws.amazon.com/cloudformation/">
+          <a href="https://github.com/">
             AWS CloudFormation
           </a>
           .
@@ -86,46 +86,40 @@ const projects = [
   },
   {
     category: "Open Source Tool",
-    title: "Mongo-Action",
-    slug: "#mongo-action",
-    imageUrl: "img/projects/mongo-action.png",
-    subtitle: "A  Github action which creates a mongo Docker container.",
+    title: "my-project-3",
+    slug: "#my-project-3",
+    imageUrl: "",
+    subtitle: "my-project-3",
     period: "March 2020",
-    tech: "GitHub Action, NodeJS, Docker",
+    tech: "GitHub",
     description: (
       <>
         <p>
-          mongo-action is a Github Action which creates a mongo Docker container
-          using the official{" "}
-          <a href="https://hub.docker.com/_/mongo">Dockerhub image</a>. The
-          MongoDB instance's port will be exposed to other containers and also
-          to the host running the Github Workflow.
+          this is sample project{" "}
+          <a href="https://github.com/jodichris17">github</a>.
         </p>
         <p>
           <a
-            href="https://github.com/DigiPie/mongo-action/workflows/mongo-action%20CI/badge.svg"
-            title="mongo-action CI"
+            href="https://github.com/jodichris17"
+            title="my-project-3"
           >
-            <img src="https://github.com/DigiPie/mongo-action/workflows/mongo-action%20CI/badge.svg" />
+            <img src="https://github.com/jodichris17" />
           </a>
         </p>
         <p>
-          I created this Github Action to learn more about Continuous
-          Integration tooling, and to simplify automated testing for my own{" "}
-          <a href="https://github.com/DigiPie/mocha-chai-mongoose">
-            Node-ExpressJS-Mongoose
+         for testing purpose{" "}
+          <a href="">
+            my-project-3
           </a>{" "}
           project.
         </p>
         <p>
-          By using this Github Action, there is no longer a need to provision a
-          test database on MongoDB Atlas or elsewhere. Furthermore, each test
-          will run on a fresh, isolated copy of a MongoDB instance.
+          sample 
         </p>
         <p>
-          I submitted this to the{" "}
+          sample{" "}
           <a href="https://githubhackathon.com/">
-            Github Hackathon for Github Actions
+            sample
           </a>
           .
         </p>
@@ -134,11 +128,11 @@ const projects = [
     links: [
       {
         name: "GitHub repository",
-        link: "https://github.com/DigiPie/mongo-action",
+        link: "https://github.com/",
       },
       {
-        name: "GitHub Marketplace",
-        link: "https://github.com/marketplace/actions/mongo-action",
+        name: "GitHub",
+        link: "https://github.com/",
       },
     ],
   },

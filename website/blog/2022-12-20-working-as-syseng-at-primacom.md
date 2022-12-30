@@ -1,6 +1,6 @@
 ---
 slug: working-as-system-engineer-at-primacom
-title: Working as System Engineer at Primacom
+title: Working as a System Engineer at Primacom
 author: Jodi Chris
 author_url: https://github.com/jodichris17
 author_title: DevOps Engineer at Blibli

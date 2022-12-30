@@ -64,8 +64,8 @@ function Home() {
               I am Jodi, a DevOps Engineer and System Engineer based in Indonesia.
             </p>
             <p>
-              I love explore new technology, my key interest 
-              are in network, linux system administration,
+              I love exploring new technologies. My main interests 
+              are computer networking, linux system administration, 
               cloud computing, and automation.
             </p>
             <p>

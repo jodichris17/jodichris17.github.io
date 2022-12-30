@@ -1,6 +1,6 @@
 ---
 slug: working-as-devops-at-finaccel
-title: Working as DevOps Engineer at Finaccel
+title: Working as a DevOps Engineer at Finaccel
 author: Jodi Chris
 author_url: https://github.com/jodichris17
 author_title: DevOps Engineer at Blibli
