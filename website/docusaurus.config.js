@@ -95,7 +95,7 @@ module.exports = {
         },
       ],
       // I built this website for my own personal use, but you are free to use it so long as you credit me. You can do so by linking back to evantay.com :)
-      copyright: `<a href="https://github.com/DigiPie/kaya-folio">Design by Evan Tay,</a> Built with Docusaurus. • <a href="https://github.com/jodichris17/jodichris17.github.io/commits/main">Updated ${new Date().toLocaleDateString()}</a>`,
+      copyright: `<a href="https://github.com/DigiPie/kaya-folio">Design by Evan Tay</a> • Built with Docusaurus • <a href="https://github.com/jodichris17/jodichris17.github.io/commits/main">Updated ${new Date().toLocaleDateString()}</a>`,
     },
   },
   presets: [

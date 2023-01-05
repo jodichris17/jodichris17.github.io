@@ -34,3 +34,11 @@ There are several skills that I got when I worked at finaccel, such as:
 - Source Code Management (version control). 
 - Troubleshooting.
 - Log analysis. This is not usually taught in universities, but it’s a very important skill. Why is your system giving incorrect results on some inputs? How to understand where the error is? How to parse logs and process them correctly?
+## Overall
+What I like the most about my job is the fact that I learn something new everyday. These are not necessarily some innovative technologies, but often you learn very important soft skills - project management, business skills, communication among team members for the most efficient result. 
+
+I think, like everyone else, I don't really like working on repetitive tasks that I have to dedicate a certain amount of time to weekly. These are the tasks that are quite difficult to automate.
+
+Also, in situations where you are working on important projects, you may encounter bureaucracy in one form or another, which undoubtedly slows down your work.
+
+![devops team](img/finaccel2.jpg)
