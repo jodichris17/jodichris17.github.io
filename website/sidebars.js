@@ -26,10 +26,7 @@ module.exports = {
       type: "category",
       label: "Programming",
       items: [
-        {
-          Ruby: ["ruby-dependency-management"],
-        },
-        "c-cheatsheet",
+        "py-cheatsheet",
         "js-cheatsheet",
       ],
     },

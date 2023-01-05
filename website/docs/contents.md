@@ -42,9 +42,8 @@ Here, you will find a collection of concise notes on full-stack software enginee
 
 |     | Topic                        | Date Last Updated |
 | --- | ---------------------------- | ----------------- |
-| 1   | [C](c-cheatsheet)            | December 23, 2020 |
+| 1   | [Python](py-cheatsheet)            | December 23, 2020 |
 | 2   | [Javascript](js-cheatsheet)  | August 1, 2021    |
-| 3   | [Ruby](ruby-dependency-management) | October 23, 2021  |
 
 </div>
 

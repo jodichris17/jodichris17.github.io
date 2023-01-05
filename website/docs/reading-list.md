@@ -2,16 +2,15 @@
 title: Reading List
 ---
 
-Published on December 23, 2020  
-Updated on July 3, 2021
+Published on January 5, 2023  
 
-This is a collection of software engineering-related articles, books and videos I have read or watch and recommend to others.
+This is a collection of some articles, books and videos I have read or watch and recommend to others.
 
 ## 2021
 
 ### Articles 2021
 
-- [Figma: How Figma’s multiplayer technology works](https://www.figma.com/blog/how-figmas-multiplayer-technology-works/): How Figma implemented multiplayer in-house, without having to use operational transforms which is the standard multiplayer algorithm used by apps like Google Docs. I really like how the article explores synchronization issues clearly and succinctly, often with the aid of easy-to-understand animations.
+- [A Comprehensive Guide to Terraform](https://blog.gruntwork.io/a-comprehensive-guide-to-terraform-b3d32832baca): 
 - [Melodies Sim: Lessons Learnt from Scaling Memcached in Production](https://levelup.gitconnected.com/lessons-learnt-from-scaling-memcached-in-production-86778ab616c7): Scaling Memcached with High Availability and Consistency in mind. **[Read my article review!](scaling-memcached.md)**
 
 ### Books 2021
