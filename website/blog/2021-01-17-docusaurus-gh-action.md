@@ -72,6 +72,5 @@ jobs:
 
 GitHub will automatically add `GITHUB_TOKEN` to Secrets. You need not do so. See [this](https://docs.github.com/en/actions/reference/authentication-in-a-workflow) for more information.
 
-:::
-
-To see this script in action, visit my [personal website repo](https://github.com/DigiPie/kaya-folio/actions).
+## Reference
+- https://evantay.com/blog/docusaurus-gh-action
