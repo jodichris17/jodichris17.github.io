@@ -47,18 +47,6 @@ Here, you will find a collection of concise notes on full-stack software enginee
 
 </div>
 
-### Tooling and OS
-
-<div class="contentTableContainer">
-
-|     | Topic                          | Date Last Updated |
-| --- | ------------------------------ | ----------------- |
-| 1   | [Git](git-cheatsheet)          | December 23, 2020 |
-| 2   | [iTerm2](iterm2-cheatsheet)    | January 23, 2021  |
-| 3   | [Ubuntu](os-ubuntu-cheatsheet) | December 23, 2020 |
-
-</div>
-
 ### Linux
 
 <div class="contentTableContainer">
