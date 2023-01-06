@@ -10,17 +10,6 @@ Updated on October 24, 2021
 
 Here, you will find my thoughts on articles, books, videos and other forms of media. I also maintain a [Reading List](reading-list) of articles, books, videos, and more which I think are meaningful and insightful.
 
-### Article Summaries
-
-<div class="contentTableContainer">
-
-|     | Topic                                                                    | Date Last Updated |
-| --- | ------------------------------------------------------------------------ | ----------------- |
-| 1   | [Lessons Learnt from Scaling Memcached in Production](scaling-memcached) | April 14, 2021    |
-
-</div>
-
-
 ## Documentation
 
 Here, you will find a collection of concise notes on full-stack software engineering and cloud operations. These notes are filed under their respective topic, with related topics are categorised under the same chapter.

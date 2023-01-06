@@ -10,11 +10,6 @@ module.exports = {
     },
     {
       type: "category",
-      label: "Article Summaries",
-      items: ["scaling-memcached"],
-    },
-    {
-      type: "category",
       label: "Network",
       items: [
         "network-model",
@@ -25,7 +20,7 @@ module.exports = {
       label: "Cloud",
       items: [
         {
-          AWS: [],
+          AWS: ["scaling-memcached"],
         },
         {
           GCP: ["gcp-gke-cheatsheet"],
