@@ -24,4 +24,4 @@ This is a collection of some articles, books and papers I have read and recommen
 
 ### Papers 2020
 
-- [A DDoS Attack Detection Method Based on SVM in Software Defined Network](https://www.hindawi.com/journals/scn/2018/9804061/): Hashicorp's white paper discusses how enterprises can adopt the Cloud Operating Model to maximise the value of their digital transformation efforts. The paper succinctly but clearly explains how one can capitalise on the dynamic nature of the cloud to achieve much more than possible with a static on-premise infrastructure setup.
+- [A DDoS Attack Detection Method Based on SVM in Software Defined Network](https://www.hindawi.com/journals/scn/2018/9804061/): This papers really helped me to complete my thesis.

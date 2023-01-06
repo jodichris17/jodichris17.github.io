@@ -25,7 +25,7 @@ Here, you will find my thoughts on articles, books, videos and other forms of me
 
 Here, you will find a collection of concise notes on full-stack software engineering and cloud operations. These notes are filed under their respective topic, with related topics are categorised under the same chapter.
 
-### Cloud and Networking
+### Cloud
 
 <div class="contentTableContainer">
 
@@ -33,6 +33,16 @@ Here, you will find a collection of concise notes on full-stack software enginee
 | --- | ------------------------------ | ----------------- |
 | 1   | [Docker](docker-cheatsheet)    | December 24, 2020 |
 | 2   | [GCP GKE](gcp-gke-cheatsheet)  | December 24, 2020 |
+
+</div>
+
+### Network
+
+<div class="contentTableContainer">
+
+|     | Topic                         | Date Last Updated |
+| --- | ----------------------------- | ----------------- |
+| 1   | [Network Model](network-model)| December 23, 2020 |
 
 </div>
 
