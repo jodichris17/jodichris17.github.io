@@ -47,14 +47,14 @@ module.exports = {
       type: "category",
       label: "Linux",
       items: [
-        "linux-command",
+        "linux-cmd",
       ],
     },
     {
       type: "category",
       label: "Git",
       items: [
-        "git-cheatsheeT",
+        "git-cheatsheet",
         "git-ignore-file",
       ],
     },
