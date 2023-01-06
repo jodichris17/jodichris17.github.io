@@ -11,13 +11,16 @@ tags: [work]
 PT Primacom Interbuana (Primacom) is a leading communication solution provider in Indonesia that started the journey by providing connectivity services through a satellite communication system with a Very Small Aperture Terminal (VSAT). As the market demands advanced communication network technology with greater efficiency, Primacom expands its business line by offering Fleet Management, Data Center, Teleport, Cloud, and Internet services.
 
 I worked at Primacom as a System Engineet for one and a half years year (2020-2021). Here are some experiences that I can share while working at Primacom.
+
+<!--truncate-->
 ## Applying to Primacom
 
-The application process is quite fast, first I applied through Kalibrr, then about 2 weeks later I got a call for an interview process and consists of:
+The application process was fairly standard, first I applied through jobstreet, then about 1 months later I got a call for an interview process and consists of:
 1. **Online Interview with HR**
 2. **Psikotest**
 3. **Online User Interview**
 4. **Online Interview with VP Engineering**
+5. **Medical CheckUp**
 
 ## Skills to develop
 There are several skills that I got when I worked at Primacom, such as:
@@ -31,5 +34,5 @@ There are several skills that I got when I worked at Primacom, such as:
 - Network Administration
 - Linux System Administration. 
 - Virtualization technology
-- Very-small-aperture terminal (VSAT)
-- On=premise infrastructure
+- Very-small-aperture terminal(VSAT)
+- On-premise infrastructure

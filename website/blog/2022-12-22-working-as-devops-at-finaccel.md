@@ -10,11 +10,12 @@ tags: [work]
 
 FinAccel is a financial technology company that leverages deep data analytics across users digital footprint to automate credit risk scoring and access to credit in Southeast Asia, the 7th largest economy in the world. FinAccel’s flagship product, Kredivo “Buy now, Pay later”, enables e-commerce buyers to apply and qualify for instant credit and pay back over time. Merchants using Kredivo benefit from providing Point of Sale financing using a 2-click checkout to all eligible buyers.
 
-I worked at finaccel as a devops engineer for about 1 year (2021-2022). Here are some experiences that I can share while working at Finaccel.
+I worked at finaccel as a DevOps Engineer for about 1 year (2021-2022). Here are some experiences that I can share while working at Finaccel.
+
+<!--truncate-->
 ## Applying to Finaccel
 
-The application process is quite fast, first I applied through Kalibrr, then about 2 weeks later I got a call for an interview process and consists of:
-
+The application process is quite fast, first I applied through kalibrr.com, then about 2 weeks later I got a call for an interview process which consisted of:
 1. **Job brief & Company overview**
 2. **Technical Career Discussion with Hiring Managers**
 
