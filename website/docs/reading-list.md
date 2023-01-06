@@ -4,31 +4,24 @@ title: Reading List
 
 Published on January 5, 2023  
 
-This is a collection of some articles, books and videos I have read or watch and recommend to others.
+This is a collection of some articles, books and papers I have read and recommend to others.
 
 ## 2021
 
 ### Articles 2021
 
-- [A Comprehensive Guide to Terraform](https://blog.gruntwork.io/a-comprehensive-guide-to-terraform-b3d32832baca): 
-- [Melodies Sim: Lessons Learnt from Scaling Memcached in Production](https://levelup.gitconnected.com/lessons-learnt-from-scaling-memcached-in-production-86778ab616c7): Scaling Memcached with High Availability and Consistency in mind. **[Read my article review!](scaling-memcached.md)**
+- [A Comprehensive Guide to Terraform](https://blog.gruntwork.io/a-comprehensive-guide-to-terraform-b3d32832baca): A series of posts that will teach you best practices for using Terraform in the real world
 
 ### Books 2021
 
-- [Martin Kleppmann: Designing Data-Intensive Applications](https://dataintensive.net/): Reading this book was one of the best decisions I ever made as a fledgling software engineer. It enlightens readers on the fundamental ideas behind the broad range of popular data systems out there today. It also discusses the key trade-offs between these systems, so readers can make better-informed decisions about which to use given the constraints and context.
+- [Sapiens: A Brief History of Humankind by Yuval Noah Harari](https://www.goodreads.com/book/show/23692271-sapiens): The evolution of human beings from the cognitive revolution to the scientific revolution was vividly portrayed in the book by Harari. You will be mesmerized after knowing how from being another common species – vulnerable to every other animal out there- the Homo Sapiens has emerged as the sole controller of every other thing on the planet earth. Your perception about life and other objective aspects will completely be altered once you come to know how the agricultural revolution and the other developments of civilization have transformed the sapiens from free self-sufficient foragers to industrial slaves of their capitalist desire. Even though the author’s lack of understanding of Islam was evident in many cases throughout the book, it is a highly recommended book to rediscover the world in front of us and reform the perception we have about our lives.
 
 ## 2020
 
 ### Articles 2020
 
-- [Github: Why Write ADRs](https://github.blog/2020-08-13-why-write-adrs/): Architecture Decision Records (ADRs) are a great way to document how and why a decision was reached within a codebase. ADRs discuss the problem context, concerns, outcomes, alternative options and accepted trade-offs.
-
-### Conferences 2020
-
-- [RailsConf 2014 - Keynote: Writing Software by David Heinemeier Hansson](https://www.youtube.com/watch?v=9LfmrkyP81M): David on how, 'most information system development has very little to do with the _science_ part of computer science' and more!
+- [Atlassian: Microservices vs. monolithic architecture](https://www.atlassian.com/microservices/microservices-architecture/microservices-vs-monolith): Architecture Decision Records (ADRs) are a great way to document how and why a decision was reached within a codebase. ADRs discuss the problem context, concerns, outcomes, alternative options and accepted trade-offs.
 
 ### Papers 2020
 
-- [Hashicorp: Unlocking the Cloud Operating Model](https://www.hashicorp.com/cloud-operating-model): Hashicorp's white paper discusses how enterprises can adopt the Cloud Operating Model to maximise the value of their digital transformation efforts. The paper succinctly but clearly explains how one can capitalise on the dynamic nature of the cloud to achieve much more than possible with a static on-premise infrastructure setup.
-- [The Akamai Network: A Platform for High-Performance Internet Application](https://www.cs.rutgers.edu/~rmartin/teaching/fall15/papers/arch2/cdn.pdf): The creators of Akamai's CDN (Content Delivery Network) share how Akamai overcome numerous network challenges such as the middle-mile bottleneck problem in order to enable the delivery of high-performance Internet applications.
-- [End-To-End Arguments In System Design by J.H. Saltzer, D.P. Reed and D.D. Clark](https://web.mit.edu/Saltzer/www/publications/endtoend/endtoend.pdf): The authors make a strong case against prematurely performing a function at a lower-level in anticipation of usage at a higher-level in a hypothetical future and more.
+- [A DDoS Attack Detection Method Based on SVM in Software Defined Network](https://www.hindawi.com/journals/scn/2018/9804061/): Hashicorp's white paper discusses how enterprises can adopt the Cloud Operating Model to maximise the value of their digital transformation efforts. The paper succinctly but clearly explains how one can capitalise on the dynamic nature of the cloud to achieve much more than possible with a static on-premise infrastructure setup.

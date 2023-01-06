@@ -30,19 +30,6 @@ module.exports = {
         "js-cheatsheet",
       ],
     },
-    // {
-    //   type: "category",
-    //   label: "Tooling and OS",
-    //   items: [
-    //     {
-    //       Git: ["git-cheatsheet", "git-ignore-file"],
-    //     },
-    //     {
-    //       iTerm2: ["iterm2-zsh-setup", "iterm2-cheatsheet"],
-    //     },
-    //     "os-ubuntu-cheatsheet",
-    //   ],
-    // },
     {
       type: "category",
       label: "Linux",
