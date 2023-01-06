@@ -15,11 +15,22 @@ module.exports = {
     },
     {
       type: "category",
-      label: "Cloud and Networking",
+      label: "Network",
       items: [
-        "docker-cheatsheet",
-        "gcp-gke-cheatsheet",
         "network-model",
+      ],
+    },
+    {
+      type: "category",
+      label: "Cloud",
+      items: [
+        {
+          AWS: [],
+        },
+        {
+          GCP: ["gcp-gke-cheatsheet"],
+        },
+        "docker-cheatsheet",
       ],
     },
     {
