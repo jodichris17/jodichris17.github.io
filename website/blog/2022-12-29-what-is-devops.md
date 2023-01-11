@@ -12,6 +12,8 @@ DevOps is the combination of cultural philosophies, practices, and tools that in
 
 ![devops loop](img/devopsfeedback.png)
 
+<!--truncate-->
+
 ## How does DevOps work?
 
 A DevOps team includes developers and IT operations working collaboratively throughout the product lifecycle, in order to increase the speed and quality of software deployment. It’s a new way of working, a cultural shift, that has significant implications for teams and the organizations they work for.

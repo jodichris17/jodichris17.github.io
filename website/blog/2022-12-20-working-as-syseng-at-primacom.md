@@ -10,7 +10,7 @@ tags: [work]
 
 PT Primacom Interbuana (Primacom) is a leading communication solution provider in Indonesia that started the journey by providing connectivity services through a satellite communication system with a Very Small Aperture Terminal (VSAT). As the market demands advanced communication network technology with greater efficiency, Primacom expands its business line by offering Fleet Management, Data Center, Teleport, Cloud, and Internet services.
 
-I worked at Primacom as a System Engineet for one and a half years year (2020-2021). Here are some experiences that I can share while working at Primacom.
+I worked at Primacom as a System Engineer for one and a half years year (2020-2021). Here are some experiences that I can share while working at Primacom.
 
 <!--truncate-->
 ## Applying to Primacom
