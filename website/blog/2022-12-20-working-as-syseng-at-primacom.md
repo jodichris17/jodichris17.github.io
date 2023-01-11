@@ -17,7 +17,7 @@ I worked at Primacom as a System Engineet for one and a half years year (2020-20
 
 The application process was fairly standard, first I applied through jobstreet, then about 1 months later I got a call for an interview process and consists of:
 1. **Online Interview with HR**
-2. **Psikotest**
+2. **Psychological Test**
 3. **Online User Interview**
 4. **Online Interview with VP Engineering**
 5. **Medical CheckUp**

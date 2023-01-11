@@ -15,7 +15,8 @@ I worked at finaccel as a DevOps Engineer for about 1 year (2021-2022). Here are
 <!--truncate-->
 ## Applying to Finaccel
 
-The application process is quite fast, first I applied through kalibrr.com, then about 2 weeks later I got a call for an interview process which consisted of:
+The application process is quite fast and straightforward, there is no psychological test or medical checkup like my previous company hiring process. first I applied through kalibrr.com, then about 2 weeks later I got a call for an interview process which consisted of:
+
 1. **Job brief & Company overview**
 2. **Technical Career Discussion with Hiring Managers**
 
