@@ -10,6 +10,8 @@ tags: [story]
 
 One night at a Mississippi juke joint in 1930, Son House and Willie Brown played their infamous Delta Blues tunes to a packed house. During the intermission, a young, bright-eyed, 19-year-old Robert Johnson conjured up the courage to take hold of the musician’s instruments and show the crowd what he got. To his surprise, the crowd was displeased with his performance. Even Son House admitted that his guitar playing was severely below par, and he was a better harmonica player if that. Following these events, Robert Johnson disappeared for approximately three years before making an appearance on a stage again, but this time he had mastered the Blues. This came as a surprise to those that knew him before his disappearance, but folks began to discredit his talents with stories and myths. The most famous story that many people recognize today is that he sold his soul to the Devil at the crossroads of Highways 49 and 61. To support these theories of Robert Johnson, the songs he did record complimented these tales quite well. A few of his titles included “Hellhound on My Trail,” “Cross Road Blues,” “Up Jumped the Devil,” and “Me and the Devil Blues.”
 
+<!--truncate-->
+
 ![robert johnson](img/robert-johnson.jpg)
 
 Although Robert Johnson is credited with being the first musician to bargain with the Devil, it began with Tommy Johnson, a musician with no relation to Robert Johnson. A relative of Tommy’s recalls his stories as such,
