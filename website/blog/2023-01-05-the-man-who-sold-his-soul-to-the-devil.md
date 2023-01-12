@@ -8,6 +8,8 @@ author_image_url: https://avatars.githubusercontent.com/u/47949557
 tags: [story]
 ---
 
+Just reposting an article I read on the internet about one of the blues musicians, Robert Johnson. There is a tragic story behind the musical journey of a Robert Johnson to be recognized as one of the legendary blues musician.
+
 One night at a Mississippi juke joint in 1930, Son House and Willie Brown played their infamous Delta Blues tunes to a packed house. During the intermission, a young, bright-eyed, 19-year-old Robert Johnson conjured up the courage to take hold of the musician’s instruments and show the crowd what he got. To his surprise, the crowd was displeased with his performance. Even Son House admitted that his guitar playing was severely below par, and he was a better harmonica player if that. Following these events, Robert Johnson disappeared for approximately three years before making an appearance on a stage again, but this time he had mastered the Blues. This came as a surprise to those that knew him before his disappearance, but folks began to discredit his talents with stories and myths. The most famous story that many people recognize today is that he sold his soul to the Devil at the crossroads of Highways 49 and 61. To support these theories of Robert Johnson, the songs he did record complimented these tales quite well. A few of his titles included “Hellhound on My Trail,” “Cross Road Blues,” “Up Jumped the Devil,” and “Me and the Devil Blues.”
 
 <!--truncate-->
@@ -16,7 +18,7 @@ One night at a Mississippi juke joint in 1930, Son House and Willie Brown played
 
 Although Robert Johnson is credited with being the first musician to bargain with the Devil, it began with Tommy Johnson, a musician with no relation to Robert Johnson. A relative of Tommy’s recalls his stories as such,
 
-    “you go to where a road crosses that way, where a crossroads is. Get there, be sure to get there just a little ‘fore 12:00 that night so you’ll know you’ll be there. You have your guitar and be playing a piece there by yourself […] A big black man will walk up there and take your guitar, and he’ll tune it. And then he’ll play a piece and hand it back to you. That’s the way I learned to play anything I want.”
+*you go to where a road crosses that way, where a crossroads is. Get there, be sure to get there just a little ‘fore 12:00 that night so you’ll know you’ll be there. You have your guitar and be playing a piece there by yourself […] A big black man will walk up there and take your guitar, and he’ll tune it. And then he’ll play a piece and hand it back to you. That’s the way I learned to play anything I want.*
 
 The only difference between Robert Johnson’s story and Tommy Johnson’s accounts was the age at which they died. After a career that lasted him just over five years, Robert Johnson died at the age of 27, whereas Tommy lived well into his sixties.
 
