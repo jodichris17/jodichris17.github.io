@@ -31,14 +31,11 @@ There are several skills that I got when I worked at Primacom, such as:
 - Problem-Solving. Many job interviews ask you to discuss a problem you've encountered and how you overcame it. Employers want to hire independent, driven professionals. Problem-solvers are able to analyze situations, incorporate input from others, and create an action plan to address the issue.
 - Adaptability. No matter what your role, and no matter what your industry, the ability to adapt to change — and a positive attitude about change — go a long way toward growing a successful career.
 ### Technical Skills
-- Network Administration
+- Network Administration.
 - Linux System Administration. 
 - Virtualization technology
 - Very-small-aperture terminal(VSAT)
 - On-premise infrastructure
 ## Overall
-What I like the most about my job is the fact that I learn something new everyday. These are not necessarily some innovative technologies, but often you learn very important soft skills - project management, business skills, communication among team members for the most efficient result. 
 
-I think, like everyone else, I don't really like working on repetitive tasks that I have to dedicate a certain amount of time to weekly. These are the tasks that are quite difficult to automate.
-
-Also, in situations where you are working on important projects, you may encounter bureaucracy in one form or another, which undoubtedly slows down your work.
+I am very happy to be able to start my first work experience with Primacom. 
