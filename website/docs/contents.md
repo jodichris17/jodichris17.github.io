@@ -12,7 +12,7 @@ Here, you will find my thoughts on articles, books, videos and other forms of me
 
 ## Documentation
 
-Here, you will find a collection of concise notes on full-stack software engineering and cloud operations. These notes are filed under their respective topic, with related topics are categorised under the same chapter.
+Here, you will find a collection of concise notes on network, linux system, programming and cloud operations. These notes are filed under their respective topic, with related topics are categorised under the same chapter.
 
 ### Cloud
 
@@ -63,6 +63,6 @@ Here, you will find a collection of concise notes on full-stack software enginee
 
 |     | Topic                          | Date Last Updated |
 | --- | ------------------------------ | ----------------- |
-| 1   | [Git](git-cheatsheet)             | December 23, 2020 |
-
+| 1   | [Git](git-cheatsheet)          | December 23, 2020 |
+| 2   | [Git Ignore](git-ignore-file)  | December 23, 2020 |
 </div>

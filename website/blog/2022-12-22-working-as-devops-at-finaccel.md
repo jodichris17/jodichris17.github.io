@@ -12,10 +12,10 @@ FinAccel is a financial technology company that leverages deep data analytics ac
 
 <!--truncate-->
 
-I worked at finaccel as a DevOps Engineer for about 1 year (2021-2022). Here are some experiences that I can share while working at Finaccel.
+I worked at finaccel as a DevOps Engineer for about 1 year (2021-2022). Joining this company is the next step in my career after my previous position was a System Engineer. In this company, I have a position as a DevOps Engineer where the work culture and technology used are slightly different from my previous job. Here are some experiences that I can share while working at Finaccel.
 ## Applying to Finaccel
 
-The application process is quite fast and straightforward, there is no psychological test or medical checkup like my previous company hiring process. first I applied through kalibrr.com, then about 2 weeks later I got a call for an interview process which consisted of:
+I am interested in applying for a job at this company because I see this company continuing to grow and provide services that are widely used by people in various circles. The application process is quite fast and straightforward, there is no psychological test or medical checkup like my previous company hiring process. first I applied through kalibrr.com, then about 2 weeks later I got a call for an interview process which consisted of:
 
 1. **Job brief & Company overview**
 2. **Technical Career Discussion with Hiring Managers**
