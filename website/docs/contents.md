@@ -22,6 +22,7 @@ Here, you will find a collection of concise notes on full-stack software enginee
 | --- | ------------------------------ | ----------------- |
 | 1   | [Docker](docker-cheatsheet)    | December 24, 2020 |
 | 2   | [GCP GKE](gcp-gke-cheatsheet)  | December 24, 2020 |
+| 3   | [AWS CLI](aws-cli-cheatsheet)  | April 14, 2021    |
 
 </div>
 

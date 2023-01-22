@@ -12,29 +12,31 @@ const projects = [
     description: (
       <>
         <p>
-          An example of how you can perform Infrastructure-As-Code (IaC) using
-          AWS CloudFormation and Continuous-Integration/Continuous-Deployment
-          (CI/CD) using AWS CodePipeline.
+          In this project the detection and mitigation system of DDoS attacks was 
+          built to minimize DDoS attacks on SDN architecture using SVM Classifier.
         </p>
         <p>
-          This example deploys the NodeJS-ExpressJS-MySQL
-          Create-Read-Update-Delete (CRUD) application at{" "}
-          <a href="https://github.com/">
-            DigiPie/nodejs-mysql-aws-beanstalk
-          </a>
-          , by using the CloudFormation IaC templates in this repository and
-          setting up a simple AWS CodePipeline.
+          SVM is applied to the machine learning model to classify 
+          normal traffic and DDoS attack traffic based on features 
+          taken from flow entries. 
+          {/* <a href="https://github.com/">
+            jodichris17/
+          </a> */}
+          {/* From the test results, the system has been able to detect DDoS 
+          attacks with an average accuracy of 96.83% and an average detection 
+          time of 67,80 ms. */}
         </p>
         <p>
-          I worked on this project to learn more about the{" "}
-          <a href="https://github.com/">
+          From the test results, the system has been able to detect DDoS 
+          attacks with an average accuracy of 96.83% and an average detection 
+          time of 67,80 ms.{" "}
+          {/* <a href="https://github.com/">
             Infrastructure-as-Code
           </a>{" "}
-          concept and{" "}
+          DDoS
           <a href="https://github.com/">
-            AWS CloudFormation
-          </a>
-          .
+            Software Defined Network
+          </a> */}
         </p>
       </>
     ),
@@ -47,40 +49,36 @@ const projects = [
   },
   {
     category: "Project",
-    title: "mocha-chai-mongoose",
-    slug: "#mocha-chai-mongoose",
-    imageUrl: "img/projects/mochai.png",
-    subtitle: "An example for testing a NodeJS-MongoDB app with Mocha-Chai.",
+    title: "my-project-2",
+    slug: "#my-project-2",
+    //imageUrl: "img/projects/",
+    subtitle: "This is my project 2",
     period: "April 2020",
-    tech: "Mocha, Chai, NodeJS, ExpressJS, MongoDB",
+    tech: "Cloud, Network",
     description: (
       <>
         <p>
-          An up-to-date 2020 example of how you can use Mocha and Chai to
-          perform API testing for a Node-ExpressJS-Mongoose app. You will be
-          able to test your code locally and also automatically using Github
-          Action.
+          my-project-2
         </p>
         <p>
           <a
-            href="https://github.com/DigiPie/mocha-chai-mongoose/workflows/Node.js%20CI/badge.svg"
-            title="Node.js CI"
+            href="https://github.com/jodichris17"
+            title="my project 2"
           >
-            <img src="https://github.com/DigiPie/mocha-chai-mongoose/workflows/Node.js%20CI/badge.svg" />
+            {/* <img src="https://github.com/jodichris17" /> */}
           </a>
         </p>
         <p>
-          I worked on this project to learn more about API testing using{" "}
-          <a href="https://mochajs.org/">Mocha</a> and{" "}
-          <a href="https://www.chaijs.com/">Chai</a>, and also to practice
-          setting up a NodeJS-ExpressJS-Mongoose backend application.
+          tbd{" "}
+          <a href="https://github.com/">my-project-2</a> {" "}
+          <a href="https://github.com/">my-project-2</a>
         </p>
       </>
     ),
     links: [
       {
         name: "GitHub repository",
-        link: "https://github.com/DigiPie/mocha-chai-mongoose",
+        link: "https://github.com/jodichris17",
       },
     ],
   },
@@ -103,7 +101,7 @@ const projects = [
             href="https://github.com/jodichris17"
             title="my-project-3"
           >
-            <img src="https://github.com/jodichris17" />
+            {/* <img src="https://github.com/jodichris17" /> */}
           </a>
         </p>
         <p>
@@ -111,18 +109,18 @@ const projects = [
           <a href="">
             my-project-3
           </a>{" "}
-          project.
+          tbd.
         </p>
-        <p>
+        {/* <p>
           sample 
-        </p>
-        <p>
+        </p> */}
+        {/* <p>
           sample{" "}
           <a href="https://githubhackathon.com/">
             sample
           </a>
           .
-        </p>
+        </p> */}
       </>
     ),
     links: [

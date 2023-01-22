@@ -20,7 +20,7 @@ module.exports = {
       label: "Cloud",
       items: [
         {
-          AWS: ["scaling-memcached"],
+          AWS: ["aws-cli-cheatsheet"],
         },
         {
           GCP: ["gcp-gke-cheatsheet"],
