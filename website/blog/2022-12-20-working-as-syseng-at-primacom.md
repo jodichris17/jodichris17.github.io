@@ -38,4 +38,4 @@ There are several skills that I got when I worked at Primacom, such as:
 - On-premise infrastructure
 ## Overall
 
-As a fresh graduate from the university, working at this company gave me an insight into how the professional world really is. I learned a lot while here, about how companies run their business, how the structure is in the company, and how each department carries out its respective functions to run the company's business. So I have to say that working in this company is a valuable experience and became the cornerstone for me in my next career path.
+As a fresh graduate from the university, working at this company gave me an insight into how the professional world really is. I learned a lot while here about how companies run their business, how the structure is in the company, and how each department carries out its respective functions to run the company's business. So I have to say that working in this company is a valuable experience and became the cornerstone for me in my next career path.
