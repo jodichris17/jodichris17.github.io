@@ -10,9 +10,9 @@ tags: [work]
 
 FinAccel is a financial technology company that leverages deep data analytics across users digital footprint to automate credit risk scoring and access to credit in Southeast Asia, the 7th largest economy in the world. FinAccel’s flagship product, Kredivo “Buy now, Pay later”, enables e-commerce buyers to apply and qualify for instant credit and pay back over time. Merchants using Kredivo benefit from providing Point of Sale financing using a 2-click checkout to all eligible buyers.
 
-I worked at finaccel as a DevOps Engineer for about 1 year (2021-2022). Here are some experiences that I can share while working at Finaccel.
-
 <!--truncate-->
+
+I worked at finaccel as a DevOps Engineer for about 1 year (2021-2022). Here are some experiences that I can share while working at Finaccel.
 ## Applying to Finaccel
 
 The application process is quite fast and straightforward, there is no psychological test or medical checkup like my previous company hiring process. first I applied through kalibrr.com, then about 2 weeks later I got a call for an interview process which consisted of:
@@ -35,7 +35,7 @@ There are several skills that I got when I worked at finaccel, such as:
 - Continuous Integration and Continuous Deployment.
 - Source Code Management (version control). 
 - Troubleshooting.
-- Log analysis. This is not usually taught in universities, but it’s a very important skill. Why is your system giving incorrect results on some inputs? How to understand where the error is? How to parse logs and process them correctly?
+- Log analysis.
 ## Overall
 What I like the most about my job is the fact that I learn something new everyday. These are not necessarily some innovative technologies, but often you learn very important soft skills - project management, business skills, communication among team members for the most efficient result. 
 
