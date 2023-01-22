@@ -12,7 +12,7 @@ module.exports = {
       type: "category",
       label: "Network",
       items: [
-        "network-model",
+        "network-cheatsheet",
       ],
     },
     {

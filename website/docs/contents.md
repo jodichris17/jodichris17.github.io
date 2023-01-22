@@ -32,7 +32,7 @@ Here, you will find a collection of concise notes on full-stack software enginee
 
 |     | Topic                         | Date Last Updated |
 | --- | ----------------------------- | ----------------- |
-| 1   | [Network Model](network-model)| December 23, 2020 |
+| 1   | [Network Cheatsheet](network-cheatsheet)| December 23, 2020 |
 
 </div>
 
