@@ -3,8 +3,9 @@ import React from "react";
 const projects = [
   {
     category: "Project",
-    title: "ddos-detection-system",
+    title: "DDoS Detection System",
     slug: "#ddos-detection-system",
+    imageUrl: "img/projects/ddos-svm.png",
     subtitle:
       "An Implemantation of DDoS detection and mitigation system using SVM Classifier.",
     period: "November 2020",
@@ -49,36 +50,36 @@ const projects = [
   },
   {
     category: "Project",
-    title: "my-project-2",
-    slug: "#my-project-2",
-    //imageUrl: "img/projects/",
-    subtitle: "This is my project 2",
+    title: "Django Simple E-Commerce",
+    slug: "#django-simple-ecommerce",
+    imageUrl: "img/projects/django-ecommerce.png",
+    subtitle: "A Simple E-Commerce Web with Django and Python",
     period: "April 2020",
-    tech: "Cloud, Network",
+    tech: "python, container",
     description: (
       <>
         <p>
-          my-project-2
+          simple django ecommerce build & deploy with docker & docker-compose
         </p>
         <p>
           <a
             href="https://github.com/jodichris17"
             title="my project 2"
           >
-            {/* <img src="https://github.com/jodichris17" /> */}
+            {/* <img src="img/projects/django-ecommerce.png" /> */}
           </a>
         </p>
-        <p>
-          tbd{" "}
-          <a href="https://github.com/">my-project-2</a> {" "}
+        {/* <p>
+          github repository{" "}
+          <a href="https://github.com/jodichris17/django-ecommerce-dockerized">django-ecommerce-dockerized</a> {" "}
           <a href="https://github.com/">my-project-2</a>
-        </p>
+        </p> */}
       </>
     ),
     links: [
       {
         name: "GitHub repository",
-        link: "https://github.com/jodichris17",
+        link: "https://github.com/jodichris17/django-ecommerce-dockerized",
       },
     ],
   },
