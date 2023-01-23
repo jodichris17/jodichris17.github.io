@@ -8,11 +8,12 @@ author_image_url: https://avatars.githubusercontent.com/u/47949557
 tags: [work]
 ---
 
-FinAccel is a financial technology company that leverages deep data analytics across users digital footprint to automate credit risk scoring and access to credit in Southeast Asia, the 7th largest economy in the world. FinAccel’s flagship product, Kredivo “Buy now, Pay later”, enables e-commerce buyers to apply and qualify for instant credit and pay back over time. Merchants using Kredivo benefit from providing Point of Sale financing using a 2-click checkout to all eligible buyers.
+I worked at finaccel as a DevOps Engineer for about one year (2021-2022). Joining this company is the next step in my career after my previous position was a System Engineer. In this company, I have a position as a DevOps Engineer where the work culture and technology used are slightly different from my previous job. Here are some experiences that I can share while working at Finaccel.
 
 <!--truncate-->
 
-I worked at finaccel as a DevOps Engineer for about 1 year (2021-2022). Joining this company is the next step in my career after my previous position was a System Engineer. In this company, I have a position as a DevOps Engineer where the work culture and technology used are slightly different from my previous job. Here are some experiences that I can share while working at Finaccel.
+FinAccel is a financial technology company that leverages deep data analytics across users digital footprint to automate credit risk scoring and access to credit in Southeast Asia, the 7th largest economy in the world. FinAccel’s flagship product, Kredivo “Buy now, Pay later”, enables e-commerce buyers to apply and qualify for instant credit and pay back over time. Merchants using Kredivo benefit from providing Point of Sale financing using a 2-click checkout to all eligible buyers.
+
 ## Applying to Finaccel
 
 I am interested in applying for a job at this company because I see this company continuing to grow and provide services that are widely used by people in various circles. The application process is quite fast and straightforward, there is no psychological test or medical checkup like my previous company hiring process. first I applied through kalibrr.com, then about 2 weeks later I got a call for an interview process which consisted of:
