@@ -8,7 +8,7 @@ const projects = [
     imageUrl: "img/projects/ddos-svm.png",
     subtitle:
       "An Implemantation of DDoS detection and mitigation system using SVM Classifier.",
-    period: "November 2020",
+    period: "January 2020",
     tech: "Machine Learning",
     description: (
       <>
@@ -54,17 +54,17 @@ const projects = [
     slug: "#django-simple-ecommerce",
     imageUrl: "img/projects/django-ecommerce.png",
     subtitle: "A Simple E-Commerce Web with Django and Python",
-    period: "April 2020",
+    period: "April 2021",
     tech: "python, container",
     description: (
       <>
         <p>
-          simple django ecommerce build & deploy with docker & docker-compose
+          Simple django ecommerce website, build & deploy with docker & docker-compose.
         </p>
         <p>
           <a
-            href="https://github.com/jodichris17"
-            title="my project 2"
+            href="https://github.com/jodichris17/django-ecommerce-dockerized"
+            title="django-ecommerce-dockerized"
           >
             {/* <img src="img/projects/django-ecommerce.png" /> */}
           </a>
@@ -89,7 +89,7 @@ const projects = [
     slug: "#my-project-3",
     imageUrl: "",
     subtitle: "my-project-3",
-    period: "March 2020",
+    period: "March 2021",
     tech: "GitHub",
     description: (
       <>
