@@ -7,13 +7,13 @@ const projects = [
     slug: "#ddos-detection-system",
     imageUrl: "img/projects/ddos-svm.png",
     subtitle:
-      "An Implemantation of DDoS detection and mitigation system using SVM Classifier.",
+      "An Implementation of DDoS detection and mitigation system using SVM Classifier.",
     period: "January 2020",
     tech: "Machine Learning",
     description: (
       <>
         <p>
-          In this project the detection and mitigation system of DDoS attacks was 
+          In this project, the detection and mitigation system of DDoS attacks was 
           built to minimize DDoS attacks on SDN architecture using SVM Classifier.
         </p>
         <p>
