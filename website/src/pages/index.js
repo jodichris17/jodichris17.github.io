@@ -81,23 +81,11 @@ function Home() {
             </p>
             <p>
               Back then, I was a{" "}
-              <a href="https://github.com/DigiPie/CS1010-Tutorial-C09">
+              <a href="https://github.com/jodichris17">
                 Teaching Assistant
               </a>{" "}
               for Computer Network courses.
             </p>
-            {/* <p>
-              🛼 I was also Deputy Head of
-              Technology for the{" "}
-              <a href="">
-                Developer Student Club
-              </a>
-              , and President of the{" "}
-              <a href="">
-                Club
-              </a>
-              . 
-            </p> */}
           </div>
         </div>
         <section className={styles.directory}>
