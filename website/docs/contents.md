@@ -30,9 +30,10 @@ Here, you will find a collection of concise notes on network, linux system, prog
 
 <div class="contentTableContainer">
 
-|     | Topic                         | Date Last Updated |
-| --- | ----------------------------- | ----------------- |
-| 1   | [Network Cheatsheet](network-cheatsheet)| December 23, 2020 |
+|     | Topic                                               | Date Last Updated |
+| --- | --------------------------------------------------- | ----------------- |
+| 1   | [Linux Network Cheatsheet](linux-network-cheatsheet)| December 23, 2020 |
+| 2   | [Cisco Cheatsheet](cisco-cheatsheet)                | December 23, 2020 |
 
 </div>
 

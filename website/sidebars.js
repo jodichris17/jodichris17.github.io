@@ -12,7 +12,8 @@ module.exports = {
       type: "category",
       label: "Network",
       items: [
-        "network-cheatsheet",
+        "linux-network-cheatsheet",
+        "cisco-cheatsheet",
       ],
     },
     {
