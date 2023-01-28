@@ -53,7 +53,7 @@ const projects = [
     title: "Django Simple E-Commerce",
     slug: "#django-simple-ecommerce",
     imageUrl: "img/projects/django-ecommerce.png",
-    subtitle: "A Simple E-Commerce Web with Django and Python",
+    subtitle: "A Simple E-Commerce Web build with Django",
     period: "April 2021",
     tech: "python, container",
     description: (
@@ -84,33 +84,34 @@ const projects = [
     ],
   },
   {
-    category: "Open Source Tool",
-    title: "my-project-3",
-    slug: "#my-project-3",
-    imageUrl: "",
-    subtitle: "my-project-3",
-    period: "March 2021",
-    tech: "GitHub",
+    category: "Hobby",
+    title: "Motorcycle Restoration",
+    slug: "#motorcycle-restoration",
+    imageUrl: "img/projects/yamaha-dt.jpg",
+    subtitle: "Restoration of my old 2-stroke motorcycle, a 1980 Yamaha DT100",
+    period: "July 2022",
+    tech: "two stroke",
     description: (
       <>
-        <p>
+        {/* <p>
           this is sample project{" "}
           <a href="https://github.com/jodichris17">github</a>.
-        </p>
-        <p>
+        </p> */}
+
+        {/* <p>
           <a
             href="https://github.com/jodichris17"
             title="my-project-3"
           >
-            {/* <img src="https://github.com/jodichris17" /> */}
+            <img src="https://github.com/jodichris17" />
           </a>
-        </p>
+        </p> */}
+
         <p>
-         for testing purpose{" "}
-          <a href="">
+         Side projects other than things related to my work to keep life in balance.{" "}
+          {/* <a href="">
             my-project-3
-          </a>{" "}
-          tbd.
+          </a>{" "} */}
         </p>
         {/* <p>
           sample 
@@ -126,13 +127,13 @@ const projects = [
     ),
     links: [
       {
-        name: "GitHub repository",
-        link: "https://github.com/",
+        name: "CycleChaos Wiki",
+        link: "https://www.cyclechaos.com/wiki/Yamaha_DT100",
       },
-      {
-        name: "GitHub",
-        link: "https://github.com/",
-      },
+      // {
+      //   name: "GitHub",
+      //   link: "https://github.com/",
+      // },
     ],
   },
 ];
