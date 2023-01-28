@@ -4,7 +4,7 @@ const katex = require("rehype-katex");
 const internetProfiles = {
   linkedin: {
     label: "LinkedIn",
-    href: "https://www.linkedin.com/in/jodi-chris-jordan-s-53a7471a7/",
+    href: "https://www.linkedin.com/in/jodichris/",
   },
   github: {
     label: "GitHub",

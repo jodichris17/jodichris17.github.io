@@ -5,7 +5,7 @@ const socialLinks = [
   {
     faIcon: faLinkedin,
     alt: "Linkedin",
-    url: "https://www.linkedin.com/in/jodi-chris-jordan-s-53a7471a7/",
+    url: "https://www.linkedin.com/in/jodichris/",
   },
   {
     faIcon: faGithub,
