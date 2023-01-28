@@ -1,4 +1,4 @@
-# Cisco Cheetsheet
+# Cisco Cheatsheet
 
 **Cisco CLI Reference, Howtos, and Tools**
 
