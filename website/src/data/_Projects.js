@@ -108,7 +108,9 @@ const projects = [
         </p> */}
 
         <p>
-         Side projects other than things related to my work to keep life in balance.{" "}
+         Side projects other than things related to my main job to keep life in balance.
+         In this project i'm restoring my old motorcycle to make it look like how it originally 
+         looked when it was released in the 70's and 80's.{" "}
           {/* <a href="">
             my-project-3
           </a>{" "} */}

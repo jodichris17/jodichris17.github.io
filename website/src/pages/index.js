@@ -35,7 +35,7 @@ function Home() {
           <p>Hi, my name is</p>
           <h1 className="text-success">Jodi Chris.</h1>
           <p>
-          Currently I work as a <span className="text-warning">DevOps Engineer</span> at blibli.com
+          Currently I work as a <span className="text-warning">DevOps Engineer</span> at <a href="https://blibli.com/"> blibli.com </a>
           </p>
           <SocialLinks />
           <p>
