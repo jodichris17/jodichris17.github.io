@@ -20,7 +20,7 @@ This is a collection of some articles, books and papers I have read and recommen
 
 ### Articles 2020
 
-- [Atlassian: Microservices vs. monolithic architecture](https://www.atlassian.com/microservices/microservices-architecture/microservices-vs-monolith): Architecture Decision Records (ADRs) are a great way to document how and why a decision was reached within a codebase. ADRs discuss the problem context, concerns, outcomes, alternative options and accepted trade-offs.
+- [Atlassian: Microservices vs. monolithic architecture](https://www.atlassian.com/microservices/microservices-architecture/microservices-vs-monolith): A monolithic application is built as a single unified unit while a microservices architecture is a collection of smaller, independently deployable services. Which one is right for you? It depends on a number of factors.
 
 ### Papers 2020
 

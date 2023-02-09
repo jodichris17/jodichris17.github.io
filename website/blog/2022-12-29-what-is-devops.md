@@ -31,7 +31,6 @@ DevOps teams use tools to automate and accelerate processes, which helps to incr
 |Haphazard Code Execution                                       |Speedy Execution                                 |
 |Delayed Software Deployments                                   |Rapid Delivery                                   |
 |Constant Monitoring of Application Maintenance and Performance |Sustained Software Development                   |
-|Haphazard Code Execution                                       |Speedy Execution                                 |
 |Operational Costs                                              |Reduced Costs                                    |
 |Lack of Scope for Innovation                                   |Improved innovation                              |
 |Low Failure Recovery Rate                                      |Reduced outages                                  |
