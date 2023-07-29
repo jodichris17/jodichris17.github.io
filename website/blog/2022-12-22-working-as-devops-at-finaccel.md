@@ -43,5 +43,3 @@ What I like the most about my job is the fact that I learn something new everyda
 I think, like everyone else, I don't really like working on repetitive tasks that I have to dedicate a certain amount of time to weekly. These are the tasks that are quite difficult to automate.
 
 Also, in situations where you are working on important projects, you may encounter bureaucracy in one form or another, which undoubtedly slows down your work.
-
-![devops team](img/finaccel2.jpg)
