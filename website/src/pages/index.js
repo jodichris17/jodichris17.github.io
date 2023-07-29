@@ -32,10 +32,11 @@ function Home() {
           className={styles.heroBannerWrapper}
           style={{ minHeight: bannerHeight, display: isLoading ? "none" : "block" }}
         >
-          <p>Hi, my name is</p>
-          <h1 className="text-success">Jodi Chris.</h1>
           <p>
-          Currently I work as a <span className="text-warning">DevOps Engineer</span> at <a href="https://blibli.com/"> blibli.com </a>
+          <img
+              className={styles.aboutProfilePic}
+              src={useBaseUrl("img/profilepic.jpg")}
+            />
           </p>
           <SocialLinks />
           <p>
@@ -67,24 +68,6 @@ function Home() {
               I love exploring new technologies. My main interests 
               are computer networking, linux system administration, 
               cloud computing, and automation.
-            </p>
-            <p>
-              I was a{" "}
-              <a href="https://filkom.ub.ac.id/">
-                Computer Science major
-              </a>{" "}
-              at the{" "}
-              <a href="https://www.ub.ac.id/">
-                Brawijaya University
-              </a>{" "}
-              from 2015 to 2020.
-            </p>
-            <p>
-              Back then, I was a{" "}
-              <a href="https://github.com/jodichris17">
-                Teaching Assistant
-              </a>{" "}
-              for Computer Network courses.
             </p>
           </div>
         </div>
