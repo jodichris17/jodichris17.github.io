@@ -3,7 +3,7 @@ slug: what-is-devops
 title: What is DevOps?
 author: Jodi Chris
 author_url: https://github.com/jodichris17
-author_title: DevOps Engineer at Blibli
+author_title: DevOps Engineer
 author_image_url: https://avatars.githubusercontent.com/u/47949557
 tags: [devops]
 ---
