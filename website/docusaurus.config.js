@@ -26,10 +26,6 @@ const internetProfiles = {
     label: "Projects",
     to: "projects",
   },
-  resume: {
-    label: "Resume",
-    href: "https://jodichris17.github.io/pdf/resume.pdf",
-  },
 };
 
 module.exports = {
@@ -67,11 +63,6 @@ module.exports = {
           position: "left",
         },
         { to: "projects/", label: "Projects", position: "right" },
-        {
-          href: "https://jodichris17.github.io/pdf/resume.pdf",
-          label: "Resume",
-          position: "right",
-        },
       ],
     },
     footer: {
@@ -90,7 +81,6 @@ module.exports = {
             internetProfiles.blog,
             internetProfiles.docs,
             internetProfiles.projects,
-            internetProfiles.resume,
           ],
         },
       ],

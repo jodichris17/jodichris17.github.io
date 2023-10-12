@@ -60,9 +60,9 @@ function Home() {
             />
           </div>
           <div class={styles.aboutText}>
-            <h2>Hi</h2>
+            {/* <h2>Hi</h2> */}
             <p>
-              I am Jodi, a DevOps Engineer and System Engineer based in Indonesia.
+              I am a DevOps Engineer and System Engineer based in Indonesia.
             </p>
             <p>
               I love exploring new technologies. My main interests 
@@ -97,15 +97,6 @@ function Home() {
                   <div className="pagination-nav__sublabel">Check out</div>
                   <div className="pagination-nav__label">My projects</div>
                 </Link>
-              </div>
-              <div className="pagination-nav__item pagination-nav__item--next">
-                <a
-                  className="pagination-nav__link"
-                  href={useBaseUrl("pdf/resume.pdf")}
-                >
-                  <div className="pagination-nav__sublabel">Download</div>
-                  <div className="pagination-nav__label">My resume</div>
-                </a>
               </div>
             </nav>
           </div>
