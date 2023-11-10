@@ -211,15 +211,6 @@ function Projects() {
                   <div className="pagination-nav__label">My blog</div>
                 </Link>
               </div>
-              <div className="pagination-nav__item pagination-nav__item--next">
-                <a
-                  className="pagination-nav__link"
-                  href={useBaseUrl("pdf/resume.pdf")}
-                >
-                  <div className="pagination-nav__sublabel">Download</div>
-                  <div className="pagination-nav__label">My resume</div>
-                </a>
-              </div>
             </nav>
           </div>
         </section>
