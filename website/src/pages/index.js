@@ -62,12 +62,7 @@ function Home() {
           <div class={styles.aboutText}>
             {/* <h2>Hi</h2> */}
             <p>
-              I am a DevOps Engineer and System Engineer based in Indonesia.
-            </p>
-            <p>
-              I love exploring new technologies. My main interests 
-              are computer networking, linux system administration, 
-              cloud computing, and automation.
+              A DevOps Engineer and System Engineer based in Indonesia.
             </p>
           </div>
         </div>
