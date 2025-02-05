@@ -17,6 +17,7 @@ const internetProfiles = {
   youtube: {
     label: "Youtube",
     href: "www.youtube.com/@jodichris8813",
+  },
   blog: {
     label: "Blog",
     to: "blog",
