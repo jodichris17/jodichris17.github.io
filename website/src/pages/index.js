@@ -35,7 +35,7 @@ function Home() {
           <p>
           <img
               className={styles.aboutProfilePic}
-              src={useBaseUrl("img/profile.jpg")}
+              src={useBaseUrl("img/profilepic.jpg")}
             />
           </p>
           <SocialLinks />
