@@ -1,5 +1,5 @@
 import { faPaperPlane } from "@fortawesome/free-solid-svg-icons";
-import { faGithub, faLinkedin, faPadlet } from "@fortawesome/free-brands-svg-icons";
+import { faGithub, faLinkedin, faPadlet, faYoutube } from "@fortawesome/free-brands-svg-icons";
 
 const socialLinks = [
   {
@@ -16,6 +16,11 @@ const socialLinks = [
     faIcon: faPaperPlane,
     alt: "Email",
     url: "mailto:jodichris17@gmail.com",
+  },
+  {
+    faIcon: faYoutube,
+    alt: "Youtube",
+    url: "www.youtube.com/@jodichris8813",
   },
 ];
 
