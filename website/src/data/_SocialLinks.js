@@ -20,7 +20,7 @@ const socialLinks = [
   {
     faIcon: faYoutube,
     alt: "Youtube",
-    url: "www.youtube.com/@jodichris8813",
+    url: "https://youtube.com/@jodichris8813",
   },
 ];
 
