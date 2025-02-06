@@ -84,13 +84,13 @@ const projects = [
     ],
   },
   {
-    category: "Hobby",
-    title: "Motorcycle Restoration",
-    slug: "#motorcycle-restoration",
-    imageUrl: "img/projects/yamaha-dt.jpg",
-    subtitle: "Restoration of my old 2-stroke motorcycle, a 1980 Yamaha DT100",
-    period: "July 2022",
-    tech: "two stroke",
+    category: "Project",
+    title: "Lambda CI/CD",
+    slug: "#lambdaci-cd",
+    imageUrl: "img/projects/cicd_pipeline_diagram.png",
+    subtitle: "Lambda CI/CD Automation Deployment",
+    period: "July 2024",
+    tech: "AWS, Lambda",
     description: (
       <>
         {/* <p>
@@ -108,9 +108,7 @@ const projects = [
         </p> */}
 
         <p>
-         Side projects other than things related to my main job to keep life in balance.
-         In this project i'm restoring my old motorcycle to make it look like how it originally 
-         looked when it was released in the 70's and 80's.{" "}
+         This project demonstrates a CI/CD pipeline to deploy multiple AWS Lambda functions using GitHub Actions and LocalStack.{" "}
           {/* <a href="">
             my-project-3
           </a>{" "} */}
@@ -129,8 +127,8 @@ const projects = [
     ),
     links: [
       {
-        name: "CycleChaos Wiki",
-        link: "https://www.cyclechaos.com/wiki/Yamaha_DT100",
+        name: "GitHub repository",
+        link: "https://github.com/jodichris17/lambda-cicd",
       },
       // {
       //   name: "GitHub",
