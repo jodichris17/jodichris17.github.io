@@ -26,7 +26,7 @@ Show Routes
 Trace Routes
 ------------
 
-    tracerouts <ADDRESS>
+    tracerouts `<ADDRESS>`
 
 Show Ports
 ----------

@@ -56,14 +56,78 @@ function Home() {
           <div>
             <img
               className={styles.aboutProfilePic}
-              src={useBaseUrl("img/profilepic.jpg")}
+              src={useBaseUrl("img/DSC01267.JPG")}
             />
           </div>
-          <div class={styles.aboutText}>
-            {/* <h2>Hi</h2> */}
-            <p>
-              A DevOps Engineer and System Engineer based in Indonesia.
-            </p>
+          <div>
+            <img
+              className={styles.aboutProfilePic}
+              src={useBaseUrl("img/imgmdn.jpeg")}
+            />
+          </div>
+          <div>
+            <img
+              className={styles.aboutProfilePic}
+              src={useBaseUrl("img/1703851620189.jpg")}
+            />
+          </div>
+          <div>
+            <img
+              className={styles.aboutProfilePic}
+              src={useBaseUrl("img/DSC00744.JPG")}
+            />
+          </div>
+        </div>
+        <div className={styles.about}>
+          <div>
+            <img
+              className={styles.aboutProfilePic}
+              src={useBaseUrl("img/panji-0382.jpg")}
+            />
+          </div>
+          <div>
+            <img
+              className={styles.aboutProfilePic}
+              src={useBaseUrl("img/IMG_0763.jpg")}
+            />
+          </div>
+          <div>
+            <img
+              className={styles.aboutProfilePic}
+              src={useBaseUrl("img/DSC00602.JPG")}
+            />
+          </div>
+          <div>
+            <img
+              className={styles.aboutProfilePic}
+              src={useBaseUrl("img/lensaroom.jpg")}
+            />
+          </div>
+        </div>
+        <div className={styles.about}>
+          <div>
+            <img
+              className={styles.aboutProfilePic}
+              src={useBaseUrl("img/1703852565599.jpg")}
+            />
+          </div>
+          <div>
+            <img
+              className={styles.aboutProfilePic}
+              src={useBaseUrl("img/P1010720.JPG")}
+            />
+          </div>
+          <div>
+            <img
+              className={styles.aboutProfilePic}
+              src={useBaseUrl("img/me.jpg")}
+            />
+          </div>
+          <div>
+            <img
+              className={styles.aboutProfilePic}
+              src={useBaseUrl("img/IMG_20240923.jpg")}
+            />
           </div>
         </div>
         <section className={styles.directory}>
