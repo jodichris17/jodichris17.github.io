@@ -13,4 +13,4 @@ The increasing popularity of DevOps software development methodologies has led t
 
 ## References
 
-- [What is DevOps? (AWS)](https://www.ibm.com/think/topics/devsecops)
+- [What is DevSecOps? (IBM)](https://learn.ibm.com/course/view.php?id=15988#section-0)
