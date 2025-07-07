@@ -1,5 +1,3 @@
-import React from "react";
-
 const projects = [
   {
     category: "Project",
@@ -10,37 +8,11 @@ const projects = [
       "An Implementation of DDoS detection and mitigation system using SVM Classifier.",
     period: "January 2020",
     tech: "Machine Learning",
-    description: (
-      <>
-        <p>
-          In this project, the detection and mitigation system of DDoS attacks was 
-          built to minimize DDoS attacks on SDN architecture using SVM Classifier.
-        </p>
-        <p>
-          SVM is applied to the machine learning model to classify 
-          normal traffic and DDoS attack traffic based on features 
-          taken from flow entries. 
-          {/* <a href="https://github.com/">
-            jodichris17/
-          </a> */}
-          {/* From the test results, the system has been able to detect DDoS 
-          attacks with an average accuracy of 96.83% and an average detection 
-          time of 67,80 ms. */}
-        </p>
-        <p>
-          From the test results, the system has been able to detect DDoS 
-          attacks with an average accuracy of 96.83% and an average detection 
-          time of 67,80 ms.{" "}
-          {/* <a href="https://github.com/">
-            Infrastructure-as-Code
-          </a>{" "}
-          DDoS
-          <a href="https://github.com/">
-            Software Defined Network
-          </a> */}
-        </p>
-      </>
-    ),
+    description: `In this project, the detection and mitigation system of DDoS attacks was built to minimize DDoS attacks on SDN architecture using an SVM Classifier.
+
+SVM is applied to the machine learning model to classify normal traffic and DDoS attack traffic based on features taken from flow entries.
+
+From the test results, the system has been able to detect DDoS attacks with an average accuracy of 96.83% and an average detection time of 67.80 ms.`,
     links: [
       {
         name: "Journal",
@@ -53,29 +25,10 @@ const projects = [
     title: "Django Simple E-Commerce",
     slug: "#django-simple-ecommerce",
     imageUrl: "img/projects/django-ecommerce.png",
-    subtitle: "A Simple E-Commerce Web build with Django",
+    subtitle: "A Simple E-Commerce Web built with Django",
     period: "April 2021",
-    tech: "python, container",
-    description: (
-      <>
-        <p>
-          Simple django ecommerce website, build & deploy with docker & docker-compose.
-        </p>
-        <p>
-          <a
-            href="https://github.com/jodichris17/django-ecommerce-dockerized"
-            title="django-ecommerce-dockerized"
-          >
-            {/* <img src="img/projects/django-ecommerce.png" /> */}
-          </a>
-        </p>
-        {/* <p>
-          github repository{" "}
-          <a href="https://github.com/jodichris17/django-ecommerce-dockerized">django-ecommerce-dockerized</a> {" "}
-          <a href="https://github.com/">my-project-2</a>
-        </p> */}
-      </>
-    ),
+    tech: "Python, Docker",
+    description: `A simple Django e-commerce website built and deployed using Docker and Docker Compose.`,
     links: [
       {
         name: "GitHub repository",
@@ -90,50 +43,13 @@ const projects = [
     imageUrl: "img/projects/cicd_pipeline_diagram.png",
     subtitle: "Lambda CI/CD Automation Deployment",
     period: "July 2024",
-    tech: "AWS, Lambda",
-    description: (
-      <>
-        {/* <p>
-          this is sample project{" "}
-          <a href="https://github.com/jodichris17">github</a>.
-        </p> */}
-
-        {/* <p>
-          <a
-            href="https://github.com/jodichris17"
-            title="my-project-3"
-          >
-            <img src="https://github.com/jodichris17" />
-          </a>
-        </p> */}
-
-        <p>
-         This project demonstrates a CI/CD pipeline to deploy multiple AWS Lambda functions using GitHub Actions and LocalStack.{" "}
-          {/* <a href="">
-            my-project-3
-          </a>{" "} */}
-        </p>
-        {/* <p>
-          sample 
-        </p> */}
-        {/* <p>
-          sample{" "}
-          <a href="https://githubhackathon.com/">
-            sample
-          </a>
-          .
-        </p> */}
-      </>
-    ),
+    tech: "AWS, Lambda, GitHub Actions",
+    description: `This project demonstrates a CI/CD pipeline to deploy multiple AWS Lambda functions using GitHub Actions and LocalStack.`,
     links: [
       {
         name: "GitHub repository",
         link: "https://github.com/jodichris17/lambda-cicd",
       },
-      // {
-      //   name: "GitHub",
-      //   link: "https://github.com/",
-      // },
     ],
   },
 ];

@@ -25,9 +25,6 @@ import projects from "../../data/_Projects";
 function CategoryIcon({ category, size = "1x" }) {
   let faIcon;
   switch (category) {
-    case "Project":
-      faIcon = faFile;
-      break;
     case "Open Source Tool":
       faIcon = faTools;
       break;
@@ -40,38 +37,44 @@ function CategoryIcon({ category, size = "1x" }) {
     default:
       faIcon = faFile;
   }
-
-  return <FontAwesomeIcon alt={category} size={size} icon={faIcon} />;
+  return <FontAwesomeIcon size={size} icon={faIcon} />;
 }
 
 function Projects() {
-  const context = useDocusaurusContext();
-  const { siteConfig = {} } = context;
+  const { siteConfig = {} } = useDocusaurusContext();
+  const slug = useLocation();
+  const projectItemRef = useRef(null);
 
-  const mainRef = useRef(null);
   const [showProjectItem, setShowProjectItem] = useState(false);
   const [projectItem, setProjectItem] = useState(projects[0]);
-  const slug = useLocation();
+
+  const baseProjectsUrl = useBaseUrl("/projects");
+  const blogUrl = useBaseUrl("blog/");
+
+  const projectsWithUrls = projects.map((project) => ({
+    ...project,
+    slugUrl: useBaseUrl(project.slug),
+    imageUrlResolved: project.imageUrl ? useBaseUrl(project.imageUrl) : null,
+  }));
 
   useEffect(() => {
-    function handleTransition() {
-      if (slug.hash) {
-        const project = projects.find((project) => project.slug == slug.hash);
-
-        if (project) {
-          setProjectItem(project);
-          setShowProjectItem(true);
-          window.scrollTo(0, 0);
-          return;
-        }
+    if (slug.hash) {
+      const match = projectsWithUrls.find((p) => p.slug === slug.hash);
+      if (match) {
+        setProjectItem(match);
+        setShowProjectItem(true);
+        return;
       }
-
-      setShowProjectItem(false);
     }
+    setShowProjectItem(false);
+  }, [slug, projectsWithUrls]);
 
-    handleTransition();
-    mainRef.current.hidden = false;
-  });
+  // 🔽 Scroll into view after project is shown
+  useEffect(() => {
+    if (showProjectItem && projectItemRef.current) {
+      projectItemRef.current.scrollIntoView({ behavior: "smooth" });
+    }
+  }, [showProjectItem]);
 
   return (
     <Layout title="Projects" description={siteConfig.tagline}>
@@ -80,72 +83,81 @@ function Projects() {
           My projects
         </h2>
       </header>
-      <main ref={mainRef} hidden={true}>
+
+      <main>
         <div className="py-6 md:py-12">
           <div className="my-0 mx-auto max-w-7xl">
             {!showProjectItem && (
               <div className="grid grid-cols-1 md:grid-cols-3 gap-6 md:gap-4 px-4 md:px-0">
-                {projects.map((project) => (
+                {projectsWithUrls.map((project) => (
                   <div
-                    id={project.title}
-                    key={project.title + "-card"}
+                    key={project.title}
                     className="bg-secondary-800 hover:bg-secondary-900 transition rounded-lg overflow-hidden"
                   >
                     <Link
-                      to={useBaseUrl(project.slug)}
+                      to={project.slugUrl}
                       className="block h-full text-white hover:text-white no-underline hover:no-underline"
                     >
-                      {project.imageUrl ? (
+                      {project.imageUrlResolved ? (
                         <div className="overflow-hidden h-40 md:h-48">
                           <img
-                            src={useBaseUrl(project.imageUrl)}
+                            src={project.imageUrlResolved}
                             alt={project.title}
                           />
                         </div>
                       ) : (
                         <div
                           className={
-                            project.bgColor == "alternate"
+                            project.bgColor === "alternate"
                               ? "overflow-hidden bg-danger h-40 md:h-48"
                               : "overflow-hidden bg-success h-40 md:h-48"
                           }
                         >
-                          <h2 className="m-3 inline-block">{project.title}</h2>
+                          <h2 className="m-3 inline-block">
+                            {project.title}
+                          </h2>
                         </div>
                       )}
                       <div className="pt-4 px-4">
-                        <h3 className="mb-1">
-                          {project.title}
-                        </h3>
-                        <p className="text-s mb-2 text-secondary-500">{project.period}</p>
+                        <h3 className="mb-1">{project.title}</h3>
+                        <p className="text-s mb-2 text-secondary-500">
+                          {project.period}
+                        </p>
                         <p>{project.subtitle}</p>
-                        <p className="text-primary-default font-bold">Read more</p>
+                        <p className="text-primary-default font-bold">
+                          Read more
+                        </p>
                       </div>
                     </Link>
                   </div>
                 ))}
               </div>
             )}
+
             <div
+              ref={projectItemRef}
               className={clsx(
                 "text--center margin-bottom--xl",
                 styles.projectItem
               )}
               style={{ display: showProjectItem ? "block" : "none" }}
             >
-              <Link to={useBaseUrl("/projects")}>
+              <Link to={baseProjectsUrl}>
                 <button className="border-0 rounded py-2 px-4 mb-2 bg-primary-900 hover:bg-primary-800 transition text-white text-lg cursor-pointer">
                   Back
                 </button>
               </Link>
+
               <h1>{projectItem.title}</h1>
               <h2>{projectItem.subtitle}</h2>
+
               {projectItem.imageUrl && (
                 <img
                   src={useBaseUrl(projectItem.imageUrl)}
                   alt={projectItem.title}
                 />
               )}
+
               <div>
                 <ul>
                   <li>
@@ -153,22 +165,21 @@ function Projects() {
                     {projectItem.category}
                   </li>
                   <li>
-                    <FontAwesomeIcon alt="Calendar" icon={faCalendar} />{" "}
-                    {projectItem.period}
+                    <FontAwesomeIcon icon={faCalendar} /> {projectItem.period}
                   </li>
                   <li>
-                    <FontAwesomeIcon alt="Code" icon={faCode} />{" "}
-                    {projectItem.tech}
+                    <FontAwesomeIcon icon={faCode} /> {projectItem.tech}
                   </li>
                   {projectItem.team && (
                     <li>
-                      <FontAwesomeIcon alt="Team" icon={faUsers} />{" "}
+                      <FontAwesomeIcon icon={faUsers} />{" "}
                       {projectItem.team.map((member, i) => (
                         <span key={i}>
-                          {member.link && (
+                          {member.link ? (
                             <a href={member.link}>{member.name}</a>
+                          ) : (
+                            member.name
                           )}
-                          {!member.link && member.name}
                           {i < projectItem.team.length - 1 ? ", " : ""}
                         </span>
                       ))}
@@ -176,7 +187,9 @@ function Projects() {
                   )}
                 </ul>
                 <b>Description</b>
-                <div>{projectItem.description}</div>
+                <p style={{ whiteSpace: "pre-wrap" }}>
+                  {projectItem.description}
+                </p>
                 {projectItem.links && (
                   <>
                     <b>Links</b>
@@ -184,8 +197,7 @@ function Projects() {
                       {projectItem.links.map((link, i) => (
                         <li key={i}>
                           <a href={link.link}>
-                            <FontAwesomeIcon alt="Link" icon={faLink} />{" "}
-                            {link.name}
+                            <FontAwesomeIcon icon={faLink} /> {link.name}
                           </a>
                         </li>
                       ))}
@@ -193,7 +205,8 @@ function Projects() {
                   </>
                 )}
               </div>
-              <Link to={useBaseUrl("/projects")}>
+
+              <Link to={baseProjectsUrl}>
                 <button className="border-0 rounded py-2 px-4 bg-primary-900 hover:bg-primary-800 transition text-white text-lg cursor-pointer">
                   More projects
                 </button>
@@ -201,12 +214,13 @@ function Projects() {
             </div>
           </div>
         </div>
+
         <section className={styles.directory}>
           <div className="container">
             <h3>Continue exploring?</h3>
             <nav className="pagination-nav">
               <div className="pagination-nav__item">
-                <Link className="pagination-nav__link" to={useBaseUrl("blog/")}>
+                <Link className="pagination-nav__link" to={blogUrl}>
                   <div className="pagination-nav__sublabel">Read</div>
                   <div className="pagination-nav__label">My blog</div>
                 </Link>
