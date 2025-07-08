@@ -9,29 +9,35 @@ jobs:
   publish:
     runs-on: ubuntu-latest
     steps:
+      # Checkout code
       - name: Check out repo
         uses: actions/checkout@v2
 
+      # Setup Node.js
       - name: Set up Node
         uses: actions/setup-node@v2
         with:
           node-version: 18
 
-      # 🔍 Snyk Scan for security vulnerabilities
-      - name: Run Snyk to check for vulnerabilities
-        uses: snyk/actions/node@0.4.0
-        with:
-          command: monitor
-          project: website
+      # 🔍 Snyk Scan (inside 'website' folder)
+      - name: Install Snyk CLI
+        run: npm install -g snyk
+
+      - name: Run Snyk scan
+        run: |
+          cd website
+          snyk test
         env:
           SNYK_TOKEN: ${{ secrets.SNYK_TOKEN }}
 
+      # Install dependencies and build Docusaurus
       - name: Build Docusaurus website
         run: |
           cd website
-          npm install 
+          npm install
           npm run build
 
+      # Deploy to GitHub Pages
       - name: Deploy to GitHub Pages
         if: success()
         uses: crazy-max/ghaction-github-pages@v2
