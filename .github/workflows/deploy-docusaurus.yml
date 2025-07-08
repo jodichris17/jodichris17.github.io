@@ -22,6 +22,7 @@ jobs:
         uses: snyk/actions/node@0.4.0
         with:
           command: monitor
+          project: website
         env:
           SNYK_TOKEN: ${{ secrets.SNYK_TOKEN }}
 
