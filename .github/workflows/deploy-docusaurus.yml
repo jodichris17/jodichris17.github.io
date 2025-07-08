@@ -17,7 +17,7 @@ jobs:
         uses: actions/checkout@v2
       # snyk scan
       - name: Run Snyk to check for vulnerabilities
-        uses: snyk/actions/node@main
+        uses: actions/node@main
         continue-on-error: true
         env:
           SNYK_TOKEN: ${{ secrets.SNYK_TOKEN }}
