@@ -44,7 +44,6 @@ Here, you will find a collection of concise notes on network, linux system, prog
 |     | Topic                        | Date Last Updated |
 | --- | ---------------------------- | ----------------- |
 | 1   | [Python](py-cheatsheet)            | December 23, 2020 |
-| 2   | [Javascript](js-cheatsheet)  | August 1, 2021    |
 
 </div>
 
@@ -54,7 +53,7 @@ Here, you will find a collection of concise notes on network, linux system, prog
 
 |     | Topic                          | Date Last Updated |
 | --- | ------------------------------ | ----------------- |
-| 1   | [Linux](linux-cmd)             | December 23, 2020 |
+| 1   | [Linux Command](linux-cmd)             | December 23, 2020 |
 
 </div>
 

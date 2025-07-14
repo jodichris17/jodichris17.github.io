@@ -34,7 +34,6 @@ module.exports = {
       label: "Programming",
       items: [
         "py-cheatsheet",
-        "js-cheatsheet",
       ],
     },
     {
