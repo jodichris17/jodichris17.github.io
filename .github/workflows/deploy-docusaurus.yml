@@ -21,7 +21,7 @@ jobs:
 
       # 🔍 Snyk Scan (inside 'website' folder)
       - name: Install Snyk CLI
-        run: npm install -g snyk
+        run: npm install -g snyk@1.1297.3
 
       - name: Run Snyk scan
         run: |
