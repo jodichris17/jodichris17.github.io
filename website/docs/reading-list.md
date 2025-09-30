@@ -6,6 +6,13 @@ Published on January 5, 2023
 
 This is a collection of some articles, books and papers I have read and recommend to others.
 
+## 2025
+
+### Books 2025
+
+- [Emotitude by Josua Iwan Wahyudi](https://www.library.sbr.sch.id/index.php?p=show_detail&id=22299&keywords=): This book provides practical tips that can be applied in our daily lives so that we can have a good emotional attitude (emotitude). Ultimately, with good emotion, we can also develop further in the area of ​​self-control.
+Iwan describes emotional intelligence very well, I am sure that not only will you be blessed, but you will also see life from a different perspective and you will be a blessing to others wherever you are.
+
 ## 2021
 
 ### Articles 2021
