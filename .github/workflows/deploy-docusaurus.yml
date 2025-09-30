@@ -26,6 +26,7 @@ jobs:
       - name: Run Snyk scan
         run: |
           cd website
+          yarn install
           snyk monitor
         env:
           SNYK_TOKEN: ${{ secrets.SNYK_TOKEN }}
