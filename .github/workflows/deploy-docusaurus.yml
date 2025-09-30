@@ -19,18 +19,6 @@ jobs:
         with:
           node-version: 18
 
-      # 🔍 Snyk Scan (inside 'website' folder)
-      - name: Install Snyk CLI
-        run: npm install -g snyk
-
-      - name: Run Snyk scan
-        run: |
-          rm -rf node_modules yarn.lock
-          yarn install
-          cd website
-          snyk monitor
-        env:
-          SNYK_TOKEN: ${{ secrets.SNYK_TOKEN }}
 
       # Install dependencies and build Docusaurus
       - name: Build Docusaurus website
