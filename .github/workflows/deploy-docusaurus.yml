@@ -21,13 +21,12 @@ jobs:
 
       # 🔍 Snyk Scan (inside 'website' folder)
       - name: Install Snyk CLI
-        run: |
-          rm -rf node_modules yarn.lock
-          yarn install
-          npm install -g snyk
+        run: npm install -g snyk
 
       - name: Run Snyk scan
         run: |
+          rm -rf node_modules yarn.lock
+          yarn install
           cd website
           snyk monitor
         env:
