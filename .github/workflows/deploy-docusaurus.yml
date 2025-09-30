@@ -26,6 +26,8 @@ jobs:
       - name: Run Snyk scan
         run: |
           cd website
+          yarn remove react-helmet-async
+          yarn add react-helmet-async@npm:@slorber/react-helmet-async@1.3.0
           snyk monitor
         env:
           SNYK_TOKEN: ${{ secrets.SNYK_TOKEN }}
