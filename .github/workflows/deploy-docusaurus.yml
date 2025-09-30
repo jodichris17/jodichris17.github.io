@@ -25,6 +25,8 @@ jobs:
           # Manually add alias so yarn.lock is synced
           yarn add react-helmet-async@npm:@slorber/react-helmet-async@1.3.0 --ignore-scripts --no-lockfile
           yarn install --check-files
+          yarn add react@^18 react-dom@^18
+
 
       # 🔍 Snyk Scan (inside 'website' folder)
       - name: Install Snyk CLI
