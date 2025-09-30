@@ -18,11 +18,10 @@ jobs:
         uses: actions/setup-node@v2
         with:
           node-version: 18
-          
+
       - name: Install dependencies
         run: |
-          # Install normally
-          yarn install --frozen-lockfile=false
+
           # Manually add alias so yarn.lock is synced
           yarn add react-helmet-async@npm:@slorber/react-helmet-async@1.3.0 --ignore-scripts --no-lockfile
           yarn install --check-files
