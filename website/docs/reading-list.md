@@ -24,6 +24,7 @@ Iwan describes emotional intelligence very well, I am sure that not only will yo
     Drawing on his great arsenal of rhetoric, including historical examples (especially from Caligula's horrific reign), anecdotes, quips, and soaring flights of eloquence, Seneca builds his case against anger with mounting intensity. Like a fire-and-brimstone preacher, he paints a grim picture of the moral perils to which anger exposes us, tracing nearly all the world's evils to this one toxic source. But he then uplifts us with a beatific vision of the alternate path, a path of forgiveness and compassion that resonates with Christian and Buddhist ethics.
 
     Seneca's thoughts on anger have never been more relevant than today, when uncivil discourse has increasingly infected public debate. Whether seeking personal growth or political renewal, readers will find, in Seneca's wisdom, a valuable antidote to the ills of an angry age.
+    
 
 ## 2024
 
