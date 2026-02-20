@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkjodichris_com=self.webpackChunkjodichris_com||[]).push([[121],{8070:s=>{s.exports=JSON.parse('{"tags":[{"label":"devsecops","permalink":"/blog/tags/devsecops","count":1},{"label":"devops","permalink":"/blog/tags/devops","count":1}]}')}}]);
