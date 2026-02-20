@@ -29,13 +29,6 @@ Iwan describes emotional intelligence very well, I am sure that not only will yo
 
 - [The Godfather by Mario Puzo](https://www.goodreads.com/book/show/22034.The_Godfather): Almost fifty years ago, a classic was born. A searing portrayal of the Mafia underworld, The Godfather introduced readers to the first family of American crime fiction, the Corleones, and their powerful legacy of tradition, blood, and honor. The seduction of power, the pitfalls of greed, and the allegiance to family—these are the themes that have resonated with millions of readers around the world and made The Godfather the definitive novel of the violent subculture that, steeped in intrigue and controversy, remains indelibly etched in our collective consciousness.
 
-- [How to Keep Your Cool: An Ancient Guide to Anger Management](https://www.goodreads.com/book/show/41795421-how-to-keep-your-cool): In his essay "On Anger" (De Ira), the Roman Stoic thinker Seneca (c. 4 BC-65 AD) argues that anger is the most destructive passion: "No plague has cost the human race more dear." This was proved by his own life, which he barely preserved under one wrathful emperor, Caligula, and lost under a second, Nero. This splendid new translation of essential selections from "On Anger," presented with an enlightening introduction and the original Latin on facing pages, offers readers a timeless guide to avoiding and managing anger. It vividly illustrates why the emotion is so dangerous and why controlling it would bring vast benefits to individuals and society.
-    
-    Drawing on his great arsenal of rhetoric, including historical examples (especially from Caligula's horrific reign), anecdotes, quips, and soaring flights of eloquence, Seneca builds his case against anger with mounting intensity. Like a fire-and-brimstone preacher, he paints a grim picture of the moral perils to which anger exposes us, tracing nearly all the world's evils to this one toxic source. But he then uplifts us with a beatific vision of the alternate path, a path of forgiveness and compassion that resonates with Christian and Buddhist ethics.
-
-    Seneca's thoughts on anger have never been more relevant than today, when uncivil discourse has increasingly infected public debate. Whether seeking personal growth or political renewal, readers will find, in Seneca's wisdom, a valuable antidote to the ills of an angry age.
-
-
 ## 2024
 
 ### Books 2024
