@@ -10,6 +10,10 @@ This is a collection of some articles, books and papers I have read and recommen
 
 ### Books 2026
 
+- [Desperate Duchesses](https://www.goodreads.com/book/show/641455.Desperate_Duchesses):  A marquess's sheltered only daughter, Lady Roberta St. Giles falls in love with a man she glimpses across a crowded ballroom: a duke, a game player of consummate skill, a notorious rakehell who shows no interest in marriage until he lays eyes on Roberta.
+
+    Yet the Earl of Gryffyn knows too well that the price required to gain a coronet is often too high. Damon Reeve, the earl, is determined to protect the exquisite Roberta from chasing after the wrong destiny.
+
 - [How to Keep Your Cool: An Ancient Guide to Anger Management](https://www.goodreads.com/book/show/41795421-how-to-keep-your-cool): In his essay "On Anger" (De Ira), the Roman Stoic thinker Seneca (c. 4 BC-65 AD) argues that anger is the most destructive passion: "No plague has cost the human race more dear." This was proved by his own life, which he barely preserved under one wrathful emperor, Caligula, and lost under a second, Nero. This splendid new translation of essential selections from "On Anger," presented with an enlightening introduction and the original Latin on facing pages, offers readers a timeless guide to avoiding and managing anger. It vividly illustrates why the emotion is so dangerous and why controlling it would bring vast benefits to individuals and society.
     
     Drawing on his great arsenal of rhetoric, including historical examples (especially from Caligula's horrific reign), anecdotes, quips, and soaring flights of eloquence, Seneca builds his case against anger with mounting intensity. Like a fire-and-brimstone preacher, he paints a grim picture of the moral perils to which anger exposes us, tracing nearly all the world's evils to this one toxic source. But he then uplifts us with a beatific vision of the alternate path, a path of forgiveness and compassion that resonates with Christian and Buddhist ethics.
