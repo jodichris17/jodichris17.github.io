@@ -10,6 +10,8 @@ This is a collection of some articles, books and papers I have read and recommen
 
 ### Books 2026
 
+- [The Psychology of Loneliness](https://www.goodreads.com/book/show/41715711-yaln-zl-k-psikolojisi?from_search=true&from_srp=true&qid=zMFZeu6dLM&rank=2): In this book, Expert Psychologist Zehra Erol addresses loneliness in all its dimensions, emphasizing both its transformative nature and how it should be considered in conjunction with other emotions. Through stories about contemporary people.
+
 - [Desperate Duchesses](https://www.goodreads.com/book/show/641455.Desperate_Duchesses):  A marquess's sheltered only daughter, Lady Roberta St. Giles falls in love with a man she glimpses across a crowded ballroom: a duke, a game player of consummate skill, a notorious rakehell who shows no interest in marriage until he lays eyes on Roberta.
 
     Yet the Earl of Gryffyn knows too well that the price required to gain a coronet is often too high. Damon Reeve, the earl, is determined to protect the exquisite Roberta from chasing after the wrong destiny.
