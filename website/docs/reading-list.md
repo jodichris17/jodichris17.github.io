@@ -10,6 +10,8 @@ This is a collection of some articles, books and papers I have read and recommen
 
 ### Books 2026
 
+- [Mirai](https://www.goodreads.com/book/show/41213461-mirai?from_search=true&from_srp=true&qid=f6mrE1UUsc&rank=1): Little Kun isn't too happy about the latest addition to his family. With the arrival of a new baby sister in the house, he worries his parents may not love him as much as they used to...But when a teenage girl shows up and tells Kun that she is his sister from the future, it may be that there's more to this new relationship than Kun ever could've dreamed!
+
 - [The Psychology of Loneliness](https://www.goodreads.com/book/show/41715711-yaln-zl-k-psikolojisi?from_search=true&from_srp=true&qid=zMFZeu6dLM&rank=2): In this book, Expert Psychologist Zehra Erol addresses loneliness in all its dimensions, emphasizing both its transformative nature and how it should be considered in conjunction with other emotions. Through stories about contemporary people.
 
 - [Desperate Duchesses](https://www.goodreads.com/book/show/641455.Desperate_Duchesses):  A marquess's sheltered only daughter, Lady Roberta St. Giles falls in love with a man she glimpses across a crowded ballroom: a duke, a game player of consummate skill, a notorious rakehell who shows no interest in marriage until he lays eyes on Roberta.
