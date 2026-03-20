@@ -10,6 +10,10 @@ This is a collection of some articles, books and papers I have read and recommen
 
 ### Books 2026
 
+- [Ali Moertopo & dunia intelijen Indonesia](https://perpustakaan.kemlu.go.id/index.php?p=show_detail&id=94&keywords=): Nama dan sosok Ali Moertopo memang misterius. Tak banyak sumber yang mengulas tentang dirinya. Padahal ia adalah tokoh utama di balik layar zaman Orde Baru. Perannya sungguh penting bagi Republik, khususnya bagi dunia intelijen Indonesia. Ia juga yang merancang agar Soeharto dan kendaraan politiknya, Golkar, dapat bertahan lama di pucuk pimpinan pemerintahan. Beberapa pengamat menjulukinya sebagai man of action, orang yang berorientasi pada tujuan.
+
+    Kini, namanya semakin dilupakan orang. Buku Ali Moertopo dan Dunia Intelijen Indonesia ini mencoba meng- ingatkan kembali pada sosok Ali yang dalam sejarah kita akan tercatat sebagai salah satu "Jagoan Intelijen" pernah dimiliki Indonesia.
+
 - [Mirai](https://www.goodreads.com/book/show/41213461-mirai?from_search=true&from_srp=true&qid=f6mrE1UUsc&rank=1): Little Kun isn't too happy about the latest addition to his family. With the arrival of a new baby sister in the house, he worries his parents may not love him as much as they used to...But when a teenage girl shows up and tells Kun that she is his sister from the future, it may be that there's more to this new relationship than Kun ever could've dreamed!
 
 - [The Psychology of Loneliness](https://www.goodreads.com/book/show/41715711-yaln-zl-k-psikolojisi?from_search=true&from_srp=true&qid=zMFZeu6dLM&rank=2): In this book, Expert Psychologist Zehra Erol addresses loneliness in all its dimensions, emphasizing both its transformative nature and how it should be considered in conjunction with other emotions. Through stories about contemporary people.
