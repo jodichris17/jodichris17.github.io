@@ -35,7 +35,7 @@ function Home() {
           <p>
           <img
               className={styles.aboutProfilePic}
-              src={useBaseUrl("img/profilepic-new.jpg")}
+              src={useBaseUrl("img/profilepic-new1.jpg")}
             />
           </p>
           <SocialLinks />
@@ -126,7 +126,7 @@ function Home() {
           <div>
             <img
               className={styles.aboutProfilePic}
-              src={useBaseUrl("img/IMG_20240923.jpg")}
+              src={useBaseUrl("img/20260428_070538.jpg")}
             />
           </div>
         </div>
