@@ -10,6 +10,22 @@ This is a collection of some articles, books and papers I have read and recommen
 
 ### Books 2026
 
+- [BEPE20: Ketika Jemariku Menari](https://www.goodreads.com/en/book/show/11303136-bepe20): Buku ini merupakan biografi pemain sepak bola favorit kakak saya. 
+
+    "Suatu pagi, setelah latihan rutin bersama timnas menjelang Piala AFF bergulir, pelatih kepala tim nasional Indonesia, Alfred Riedl, tiba-tiba memanggil saya. Di tengah lapangan, dibawah terik matahari dan dalam keadaan bercucuran keringat, kami terlibat dalam sebuah pembicaraan. Ya, sebuah pembicaraan yang boleh dikatakan cukup serius atau bahkan teramat serius...."
+
+    Awal kisah perjanjian Bambang Pamungkas dengan Alfred Riedl menjelang Piala AFF 2010 itu merupakan salah satu rahasia dibalik karier, kesuksesan, dan kehidupan Bepe yang banyak tertuang dibuku ini. Anda patut membaca tuntas buku ini.
+
+    IVAN KOLEV: "Salah satu striker langka di Indonesia. Komitmen serta profesionalisme merupakan keunggulan yang jarang dimiliki pemain di Indonesia"
+
+    PONARYO ASTAMAN: "Sosok sahabat dan pemain yang berkualitas. Selalu bekerja keras tidak hanya saat pertandingan,tetapi juga ketika latihan. Patut menjadi panutan bagi pemain muda di Indonesia"
+
+    ANDY /rif: "The Real Indonesian Superstriker"
+
+    DEASY NOVIANTY: "There’s no reason not to adore this Indonesian football player"
+
+    DONNA AGNESIA: "Bepe pemain yang luar biasa, bukan hanya mempunyai skill, tetapi juga bermental baja. He’s trully the living legend of Indonesian football"
+
 - [Ali Moertopo & dunia intelijen Indonesia](https://perpustakaan.kemlu.go.id/index.php?p=show_detail&id=94&keywords=): Nama dan sosok Ali Moertopo memang misterius. Tak banyak sumber yang mengulas tentang dirinya. Padahal ia adalah tokoh utama di balik layar zaman Orde Baru. Perannya sungguh penting bagi Republik, khususnya bagi dunia intelijen Indonesia. Ia juga yang merancang agar Soeharto dan kendaraan politiknya, Golkar, dapat bertahan lama di pucuk pimpinan pemerintahan. Beberapa pengamat menjulukinya sebagai man of action, orang yang berorientasi pada tujuan.
 
     Kini, namanya semakin dilupakan orang. Buku Ali Moertopo dan Dunia Intelijen Indonesia ini mencoba meng- ingatkan kembali pada sosok Ali yang dalam sejarah kita akan tercatat sebagai salah satu "Jagoan Intelijen" pernah dimiliki Indonesia.
