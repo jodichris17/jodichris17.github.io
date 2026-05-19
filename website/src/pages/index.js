@@ -108,7 +108,7 @@ function Home() {
           <div>
             <img
               className={styles.aboutProfilePic}
-              src={useBaseUrl("img/1703852565599.jpg")}
+              src={useBaseUrl("img/20260519_084057.jpg")}
             />
           </div>
           <div>
@@ -120,13 +120,13 @@ function Home() {
           <div>
             <img
               className={styles.aboutProfilePic}
-              src={useBaseUrl("img/me.jpg")}
+              src={useBaseUrl("img/1703852565599.jpg")}
             />
           </div>
           <div>
             <img
               className={styles.aboutProfilePic}
-              src={useBaseUrl("img/20260428_070538.jpg")}
+              src={useBaseUrl("img/20260428_070538-new.jpg")}
             />
           </div>
         </div>
